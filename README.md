@@ -2,16 +2,26 @@
 
 A Python and Pandas-based tool for exploring, filtering, sorting, and exporting CSV datasets.
 
-## Features (Planned)
+## Features Completed
 
-- Load CSV files
-- View dataset information
-- Analyze missing values
-- Generate summary statistics
-- Search records
-- Filter data
-- Sort data
-- Export filtered results to CSV
+* [x] Load CSV files
+* [x] View dataset
+* [x] Dataset summary
+* [x] Missing values analysis
+* [x] Basic statistics
+* [x] Search records
+* [x] Filter data
+
+## Features In Progress
+
+* [ ] Sort data
+* [ ] Export filtered results to CSV
+* [ ] Menu-driven interface
+
+## Current Status
+
+The project can load CSV files, analyze datasets, generate summary statistics, search records, and filter data using Python and Pandas.
+
 
 ## Tech Stack
 
