@@ -1,43 +1,45 @@
 # CSV Data Explorer
 
-A Python and Pandas-based tool for exploring, filtering, sorting, and exporting CSV datasets.
+## Overview
 
-## Features Completed
+CSV Data Explorer is a Python-based data analysis tool built using Pandas. It allows users to load CSV files, analyze datasets, search and filter records, sort data, and export results into new CSV files.
 
-* [x] Load CSV files
-* [x] View dataset
-* [x] Dataset summary
-* [x] Missing values analysis
-* [x] Basic statistics
-* [x] Search records
-* [x] Filter data
+## Features
 
-## Features In Progress
+* Load CSV datasets
+* View dataset information
+* Missing value analysis
+* Summary statistics
+* Search records
+* Filter data
+* Sort data
+* Export filtered results
+* Interactive menu-driven interface
 
-* [ ] Sort data
-* [ ] Export filtered results to CSV
-* [ ] Menu-driven interface
+## Technologies Used
 
-## Current Status
-
-The project can load CSV files, analyze datasets, generate summary statistics, search records, and filter data using Python and Pandas.
-
-
-## Tech Stack
-
-- Python
-- Pandas
-- Jupyter Lab
-- Git & GitHub
-
-## Project Status
-
-🚧 Currently under development
+* Python
+* Pandas
+* Jupyter Notebook
+* Git
+* GitHub
 
 ## Dataset
 
-Currently using the Titanic dataset for testing and analysis.
+Titanic Dataset
 
+## How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter Lab
+3. Run all cells
+4. Use the menu interface
+
+## Future Improvements
+
+* Data visualizations using Matplotlib and Seaborn
+* GUI interface
+* Support for multiple datasets
+  
 ## Author
-
-Durgam Shailaja
+ Durgam Shailaja
